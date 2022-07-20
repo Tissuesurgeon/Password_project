@@ -1,1 +1,1 @@
-# This is a program to generate and save password. 
+# This is a python program to generate and save password. 
